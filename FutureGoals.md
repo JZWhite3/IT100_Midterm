@@ -2,5 +2,5 @@
 [Work Expirence](https://github.com/JZWhite3/IT100_Midterm/blob/main/WorkExperience.md)
 [Education](https://github.com/JZWhite3/IT100_Midterm/blob/main/Education.md)
 [Achievements](https://github.com/JZWhite3/IT100_Midterm/blob/main/achievements.md)
-[Future Goals]()
+[Future Goals](https://github.com/JZWhite3/IT100_Midterm/blob/main/FutureGoals.md)
 # Future Goals 
