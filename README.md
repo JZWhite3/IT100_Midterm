@@ -1,4 +1,4 @@
-[Resume]()
+[Work Expirence]()
 # Justin White Overview
 
 ## [LinkedIn](https://www.linkedin.com/in/J-Z-White/ "A link to my LinkedIn profile")
