@@ -1,6 +1,7 @@
 [Home](https://github.com/JZWhite3/IT100_Midterm/blob/main/README.md)
 [Work Expirence](https://github.com/JZWhite3/IT100_Midterm/blob/main/WorkExperience.md)
 [Education](https://github.com/JZWhite3/IT100_Midterm/blob/main/Education.md)
+[Achievements](https://github.com/JZWhite3/IT100_Midterm/blob/main/achievements.md)
 # Work Expireince and Projects
 ![luca-bravo-9l_326FISzk-unsplash](https://user-images.githubusercontent.com/123113593/226236986-5a69762c-d723-4dfb-bd89-cd81a53a1009.jpg)
 
