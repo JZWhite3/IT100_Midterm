@@ -1,6 +1,7 @@
 [Home](https://github.com/JZWhite3/IT100_Midterm/blob/main/README.md)
 [Work Expirence](https://github.com/JZWhite3/IT100_Midterm/blob/main/WorkExperience.md)
 [Education](https://github.com/JZWhite3/IT100_Midterm/blob/main/Education.md)
+[Achievements](https://github.com/JZWhite3/IT100_Midterm/blob/main/achievements.md)
 # Justin White Overview
 <img width="226" alt="Screen Shot 2023-03-19 at 10 08 40 PM" src="https://user-images.githubusercontent.com/123113593/226237576-e346ecce-8a15-455c-81c4-6719f5e1217d.png">
 
