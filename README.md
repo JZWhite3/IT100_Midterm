@@ -1,4 +1,4 @@
-[Work Expirence]()
+[Work Expirence](https://github.com/JZWhite3/IT100_Midterm/edit/main/Page1)
 # Justin White Overview
 
 ## [LinkedIn](https://www.linkedin.com/in/J-Z-White/ "A link to my LinkedIn profile")
