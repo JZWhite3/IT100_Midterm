@@ -1,6 +1,5 @@
 [Home](https://github.com/JZWhite3/IT100_Midterm/blob/main/README.md)
 [Work Expirence](https://github.com/JZWhite3/IT100_Midterm/blob/main/WorkExperience.md)
-[Education](https://github.com/JZWhite3/IT100_Midterm/blob/main/Education.md)
 # Work Expireince and Projects
 ![luca-bravo-9l_326FISzk-unsplash](https://user-images.githubusercontent.com/123113593/226236986-5a69762c-d723-4dfb-bd89-cd81a53a1009.jpg)
 
@@ -20,6 +19,7 @@
 - Assured financial/budget stability.
 - Developed a means to track metrics in order to report to company stakeholders.
 
+<img width="862" alt="Screen Shot 2023-03-19 at 10 33 40 PM" src="https://user-images.githubusercontent.com/123113593/226240508-ee68f032-6f12-4f85-bf70-f1d23dc46c97.png">
 
 ## Projects 
 ### Student Report Main
