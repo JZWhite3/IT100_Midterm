@@ -10,7 +10,18 @@
 ## [LinkedIn](https://www.linkedin.com/in/J-Z-White/ "A link to my LinkedIn profile")
 
 ## Summary
-As an aspiring *Information Security Expert*, I have spent the early years of my career collecting experience over a variety of disciplines including system administration, electronic engineering, aviation technology, and IT security. I am interested in process excellence, offensive cyber security, and eventually leading security programs. Currently I am pursuing a bachelor’s degree in **Information Technology focusing on Cybersecurity at the University of Missouri Columbia**, while also pursuing industry certifications like the Comptia Security+ and TCM PNPT. 
+YOUNG. PROFESSIONAL. ENERGETIC. COMPLETELY EXCITED BY TECHNOLOGY.
+At a young age I was introduced to HTML and CSS through web development, video game development through game salad. Also, I worked with a team in the Cyberpatriot Competition where we worked together to secure a virtual system by managing user capabilities, installing malware and vulnerability assessment software, and managing security settings.
+
+During high school I continued to deepen my knowledge of web development and cyber security. I was able to explore aspects of backend development through SQL and PHP. In addition, I was a lead educator at the St. Louis Science Center where I was able to educate the youth from ages four to sixteen on the scientific operation of solar cars. Following graduation from high school, I was hired for an internship with Invention House LLC (Electrical and Electronics Manufacturer) for the position of Senior Lab Technician. Here I had the responsibilities and duties of:
+- Experience with lab equipment including: spectrum analyzers, networking analyzers, oscilloscopes, and multimeters.
+- Hand Solder Wires, Terminals (through-hole & SMT)
+- Experience with Mentor Graphics Xpedition PCB Design Software
+- Test Fixture Development (Wiring Diagram/ Schematic)
+
+In addition, to working and going to school I have taken part in the SavvyCoders Web Development Boot Camp where I have learned JavaScript, HTML, CSS, and obtained the Agile Certification. I plan to continue to dive deeper into the topics of web development through completing Harvard's CS50 course where I will get in depth instructions of Github, HTML, CSS, Flask, Django, SQL, API, JavaScript, SPA, and web development security topics. Similarly, for cyber security I will begin studying for the Security+ certification.
+
+I am currently enrolled at the University of Missouri Columbia, pursuing a major in Information Technology as well as a certificate in Cybersecurity. 
 ![austin-anderson-GFSNZlLa2Kc-unsplash](https://user-images.githubusercontent.com/123113593/226238663-41593dfb-9b6a-4ced-bf5a-e49e910a5616.jpg)
 
 ## Technical Skills
