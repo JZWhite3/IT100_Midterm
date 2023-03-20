@@ -1,5 +1,5 @@
 [Home](https://github.com/JZWhite3/IT100_Midterm/blob/main/README.md)
-[Work Expirence]()
+[Work Expirence](https://github.com/JZWhite3/IT100_Midterm/blob/main/WorkExperience.md)
 # Justin White Overview
 
 ## [LinkedIn](https://www.linkedin.com/in/J-Z-White/ "A link to my LinkedIn profile")
